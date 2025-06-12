@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Virupakshi047
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web Development
 
 - ⚡ Fun fact: My DND turns on at 23:00
 
