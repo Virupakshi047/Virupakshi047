@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Virupakshi047
-
+- 👋 Hi, I’m @Virupakshi
 - ⚡ Fun fact: My DND turns on at 23:00
 
 <!---
